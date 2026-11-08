@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+.vs/
+
+# Database files (local only — never commit these)
+*.db
+*.db-shm
+*.db-wal
+classroom.db
+
+# User-specific / IDE
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
