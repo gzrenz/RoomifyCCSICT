@@ -13,7 +13,7 @@
    - ⚠️ Do **not** run the app from inside the ZIP file. It must be extracted first.
 5. Open the extracted folder and find the solution file: **`ClassroomReservationOOP.sln`**
 6. **Double-click it.** Visual Studio should open with the project loaded.
-7. Run the app (f6 or the green triangle arrow thingy)
+7. Run the app (f5 or the green triangle arrow thingy)
 8. Voila, you are done
 
 ### Log in with: 
